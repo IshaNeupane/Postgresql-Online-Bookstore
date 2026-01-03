@@ -1,2 +1,8 @@
-# Postgresql-Online-Bookstore
-PostgreSQL project for an online bookstore using CSV data and SQL analysis queries.
+## Project Structure
+
+- schema.sql – database schema
+- queries.sql – SQL analysis queries
+- data/ – CSV files used to populate the database
+
+## Data Loading
+CSV files were loaded into PostgreSQL using the import option.
